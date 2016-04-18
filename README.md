@@ -1,3 +1,4 @@
-# defhacks
-5 minigames
-Creators: Edmond Wong, Ashneel Das, Jonathan Wong, Jason Kao
+# defhacks("Winter",2015)
+
+###Overview
+This project was made for CSTUY's defhacks("Winter",2015). Won an honorable mention.
